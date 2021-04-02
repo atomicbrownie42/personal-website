@@ -1,0 +1,9 @@
+.education-container {
+    border: 1px solid green;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.education-item {
+    text-align: left;
+}

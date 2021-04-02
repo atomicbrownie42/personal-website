@@ -1,0 +1,9 @@
+.prof-exp-container {
+    border: 1px solid orange;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.experience-item {
+    text-align: left;
+}

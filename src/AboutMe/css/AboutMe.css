@@ -1,0 +1,25 @@
+h1,h2,h3,h4,p {
+    margin:0;
+}
+
+.superfont {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.about-me-container {
+    padding: 0px;
+    margin: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 900px;
+    box-sizing: border-box;
+    display: flex;
+}
+
+.cv-left-side-container {
+    border: 1px solid pink;
+}
+
+.cv-right-side-container {
+    border: 1px solid rgb(114, 216, 202);
+}
